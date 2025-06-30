@@ -50,9 +50,13 @@ Listado de productos por rubro
 Registro de pedidos
 
 🧪 Estado del proyecto
+
 ✅ Módulo de login y registro
+
 ✅ Pantalla principal y rubros
+
 ✅ Carrito de compras
+
 🔄 En desarrollo: integración completa con backend y envío de pedidos
 
 📩 Contacto
